@@ -152,6 +152,9 @@ body {
 }
 
 /* Portfolio page */
+.app a {
+  text-decoration: none;
+}
 .app-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
