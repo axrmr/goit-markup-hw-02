@@ -152,7 +152,8 @@ body {
 }
 
 /* Portfolio page */
-.app a {
+.app-link {
+  color: var(--primaryTextColor);
   text-decoration: none;
 }
 .app-btn {
